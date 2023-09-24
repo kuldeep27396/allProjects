@@ -31,10 +31,10 @@ Here are some of the skills and technologies I've used in my projects:
 
 ## Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldee27396&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep27396&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuldeep27396&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=kuldeep27396)
 
 Here's some analysis or statistics about my GitHub activity. The badges above provide real-time data about my GitHub contributions, most used languages, contribution streak, and profile views.
 
